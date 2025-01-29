@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voiceflow Chatbot</title>
-</head>
-<body>
-    <h2>My Voiceflow Chatbot</h2>
-    <iframe src=<script type="text/javascript">
+<script type="text/javascript">
   (function(d, t) {
       var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
       v.onload = function() {
@@ -19,6 +10,4 @@
       }
       v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
   })(document, 'script');
-</script> width="400" height="600"></iframe>
-</body>
-</html>
+</script>
